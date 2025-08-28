@@ -22,15 +22,14 @@ Passionate about building impactful web apps & solving real-world problems
 
 ## Education
 - **B.C.A (Bachelor of Computer Applications)** – Madurai Kamaraj University (2021–2024)  
-- 🏫 HSC – Mangayarkarasi Higher Secondary School (2021)  
-- 🏫 SSLC – Mangayarkarasi Higher Secondary School (2019)  
+- HSC – Mangayarkarasi Higher Secondary School (2021)  
+- SSLC – Mangayarkarasi Higher Secondary School (2019)  
 
 ---
 
 ## Connect with Me
-- 📧 Email: [arshsamurai003@gmail.com](mailto:arshsamurai003@gmail.com)  
-- 💼 LinkedIn: [Arsh Samurai](https://www.linkedin.com/in/arsh-samurai-62a2b2365)  
-- 🖥️ GitHub: [ArshSamurai](https://github.com/ArshSamurai)  
+- Email: [arshsamurai003@gmail.com](mailto:arshsamurai003@gmail.com)  
+- LinkedIn: [Arsh Samurai](https://www.linkedin.com/in/arsh-samurai-62a2b2365) 
 
 ---
 From [ArshSamurai](https://github.com/ArshSamurai)
